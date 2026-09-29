@@ -20,10 +20,6 @@ Percentage
 
 Grade
 
-The application stores student records in a students.json file, allowing data to persist between program executions. {"fallbackMarkdown":"(GitHub
-)","reference":{"matched_text":"","prefix":null,"start_idx":1159,"end_idx":1176,"safe_urls":["https://github.com/pagadalamanikanth21-collab/VITyarthi-project/blob/main/import%20json.py"],"refs":[],"alt":"(GitHub
-)","prompt_text":null,"type":"grouped_webpages","status":"done","error":null,"style":null,"items":[{"title":"VITyarthi-project/import json.py at main · pagadalamanikanth21-collab/VITyarthi-project · GitHub","url":"https://github.com/pagadalamanikanth21-collab/VITyarthi-project/blob/main/import%20json.py","attribution":"GitHub","pub_date":null,"snippet":null,"thumbnail_url":"https://images.openai.com/static-rsc-1/W-p58tLUZ3tZdvjPghPRxrcxLeqS86e5872Y6amAmilJ14KX5cGTtY2s_lCDYp5Tjw7LQl2gBTeWW1mqv1v4koOJXfK9WExKQw9hmomMxc81Pd-sykytfyc0PcJuoKHmCjWFicd0XSsdYEFtPqmF12Jpmj0KdayvRvH277HOM64dP2RNUuORdOvItaw8zi4jaPULYi95usGJCm1gzNni7RAcdXF10epmBMZKFu4kMIM","attribution_segments":null,"supporting_websites":[],"refs":[{"turn_index":1,"ref_type":"view","ref_index":0}],"hue":null,"attributions":null}],"fallback_items":null},"showLoginRequiredCard":false}
-
 ✨ Features
 
 ➕ Add Student — Add a new student with their roll number, name, and subject marks.
@@ -76,10 +72,6 @@ OS module — File existence and file handling operations
 
 Git & GitHub — Version control and project hosting
 
-The application uses Python's built-in json and os modules and does not require external Python packages. {"fallbackMarkdown":"(GitHub
-)","reference":{"matched_text":"","prefix":null,"start_idx":2733,"end_idx":2750,"safe_urls":["https://github.com/pagadalamanikanth21-collab/VITyarthi-project/blob/main/import%20json.py"],"refs":[],"alt":"(GitHub
-)","prompt_text":null,"type":"grouped_webpages","status":"done","error":null,"style":null,"items":[{"title":"VITyarthi-project/import json.py at main · pagadalamanikanth21-collab/VITyarthi-project · GitHub","url":"https://github.com/pagadalamanikanth21-collab/VITyarthi-project/blob/main/import%20json.py","attribution":"GitHub","pub_date":null,"snippet":null,"thumbnail_url":"https://images.openai.com/static-rsc-1/W-p58tLUZ3tZdvjPghPRxrcxLeqS86e5872Y6amAmilJ14KX5cGTtY2s_lCDYp5Tjw7LQl2gBTeWW1mqv1v4koOJXfK9WExKQw9hmomMxc81Pd-sykytfyc0PcJuoKHmCjWFicd0XSsdYEFtPqmF12Jpmj0KdayvRvH277HOM64dP2RNUuORdOvItaw8zi4jaPULYi95usGJCm1gzNni7RAcdXF10epmBMZKFu4kMIM","attribution_segments":null,"supporting_websites":[],"refs":[{"turn_index":1,"ref_type":"view","ref_index":0}],"hue":null,"attributions":null}],"fallback_items":null},"showLoginRequiredCard":false}
-
 📁 Project Structure
 VITyarthi-project/
 │
@@ -94,9 +86,6 @@ students.json	Automatically created file used to store student records
 Student_Management_System_Report.pdf	Project report/documentation
 README.md	Project documentation
 
-The repository currently contains the Python source file and project report. {"fallbackMarkdown":"(GitHub
-)","reference":{"matched_text":"","prefix":null,"start_idx":3294,"end_idx":3311,"safe_urls":["https://github.com/pagadalamanikanth21-collab/VITyarthi-project"],"refs":[],"alt":"(GitHub
-)","prompt_text":null,"type":"grouped_webpages","status":"done","error":null,"style":null,"items":[{"title":"GitHub - pagadalamanikanth21-collab/VITyarthi-project · GitHub","url":"https://github.com/pagadalamanikanth21-collab/VITyarthi-project","attribution":"GitHub","pub_date":null,"snippet":null,"thumbnail_url":"https://images.openai.com/static-rsc-1/Lr_9pwEsgQIPe0W3ObD7qaK-5kRcaObluoeLAVxx7oWIGp4CZmkwTOXk_kOJ9rPi7qT-4q5PUqV3xVNxL-ouzGzUxa34LErFPTWPZWKCbRI_EDCXcQzBo5MmtVE0ULb6UbKC9rsNb1kk4u4v4v0iDt2-u2zySUC2sWlwwRmhCX_5uwHh_ChWlVodhprif-ktsHSnSEckdyY7sbJaRuR56qhFr1uWGE3aqO0NGw2KtNg","attribution_segments":null,"supporting_websites":[],"refs":[{"turn_index":0,"ref_type":"view","ref_index":0}],"hue":null,"attributions":null}],"fallback_items":null},"showLoginRequiredCard":false}
 
 ⚙️ Requirements
 
@@ -217,9 +206,7 @@ Student information is stored locally in:
 students.json
 
 
-The program automatically loads existing records when it starts and saves changes whenever a student is added or deleted. {"fallbackMarkdown":"(GitHub
-)","reference":{"matched_text":"","prefix":null,"start_idx":5553,"end_idx":5570,"safe_urls":["https://github.com/pagadalamanikanth21-collab/VITyarthi-project/blob/main/import%20json.py"],"refs":[],"alt":"(GitHub
-)","prompt_text":null,"type":"grouped_webpages","status":"done","error":null,"style":null,"items":[{"title":"VITyarthi-project/import json.py at main · pagadalamanikanth21-collab/VITyarthi-project · GitHub","url":"https://github.com/pagadalamanikanth21-collab/VITyarthi-project/blob/main/import%20json.py","attribution":"GitHub","pub_date":null,"snippet":null,"thumbnail_url":"https://images.openai.com/static-rsc-1/W-p58tLUZ3tZdvjPghPRxrcxLeqS86e5872Y6amAmilJ14KX5cGTtY2s_lCDYp5Tjw7LQl2gBTeWW1mqv1v4koOJXfK9WExKQw9hmomMxc81Pd-sykytfyc0PcJuoKHmCjWFicd0XSsdYEFtPqmF12Jpmj0KdayvRvH277HOM64dP2RNUuORdOvItaw8zi4jaPULYi95usGJCm1gzNni7RAcdXF10epmBMZKFu4kMIM","attribution_segments":null,"supporting_websites":[],"refs":[{"turn_index":1,"ref_type":"view","ref_index":0}],"hue":null,"attributions":null}],"fallback_items":null},"showLoginRequiredCard":false}
+
 
 Example data structure:
 
